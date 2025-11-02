@@ -1,2 +1,2 @@
 # FairGEN
-Official repository of FairGEN
+The code of FairGEN will be uploaded later.
